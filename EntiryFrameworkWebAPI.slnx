@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EntiryFrameworkWebAPI.BLL/EntiryFrameworkWebAPI.BLL.csproj" />
+  <Project Path="EntiryFrameworkWebAPI.DAL/EntiryFrameworkWebAPI.DAL.csproj" />
+  <Project Path="EntiryFrameworkWebAPI/EntiryFrameworkWebAPI.csproj" />
+</Solution>

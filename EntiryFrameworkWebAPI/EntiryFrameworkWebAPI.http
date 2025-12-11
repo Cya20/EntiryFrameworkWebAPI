@@ -1,0 +1,6 @@
+@EntiryFrameworkWebAPI_HostAddress = http://localhost:5153
+
+GET {{EntiryFrameworkWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
