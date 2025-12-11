@@ -58,7 +58,7 @@ Serilog & NLog
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repository
-git clone https://github.com/your-username/EntityFrameworkWebAPI.git
+git clone https://github.com/Cya20/EntityFrameworkWebAPI.git
 cd EntityFrameworkWebAPI
 
 2️⃣ Configure the database
