@@ -87,8 +87,8 @@ namespace EntiryFrameworkWebAPI.Controllers
         {
             try
             {
-                var results = await _businessLogic.DeleteProductAsync(id);
-                return Ok(results);
+                var result = await _businessLogic.DeleteProductAsync(id);
+                return Ok(result);
             }
             catch (ArgumentException ex)
             {
